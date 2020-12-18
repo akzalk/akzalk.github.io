@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Module 1 Final Project"
-date:       2020-12-18 23:54:36 +0000
+date:       2020-12-18 18:54:37 -0500
 permalink:  module_1_final_project
 ---
 
@@ -130,7 +130,7 @@ ax2.set_xlim(0,200);
 ```
 
 
-### The ACTUAL Final Project
+## The ACTUAL Final Project
 Having the knowledge of Data Cleaning and Sorting top of mind, I was excited to actually address the prompt.
 
 After checking out the first steps:
@@ -153,7 +153,7 @@ box_gross_df.head(2) #['title', 'studio', 'domestic_gross', 'foreign_gross', 'ye
 ```
 
 I made a diagram of how all the files were connected to refer back to:
-![](<blockquote class="imgur-embed-pub" lang="en" data-id="a/fFwcGiP" data-context="false" ><a href="//imgur.com/a/fFwcGiP"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![Database Schema](https://imgur.com/a/fFwcGiP)
 
 Then I chose which data I wanted to work with to get the answer to the main question: **What are details of the movies Microsoft should produce at its new studio?**
 
