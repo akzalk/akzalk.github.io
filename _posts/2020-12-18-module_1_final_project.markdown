@@ -153,7 +153,7 @@ box_gross_df.head(2) #['title', 'studio', 'domestic_gross', 'foreign_gross', 'ye
 ```
 
 I made a diagram of how all the files were connected to refer back to:
-![Database Schema](https://imgur.com/a/fFwcGiP)
+!([img]https://i.imgur.com/4a0Br8N.png[/img])
 
 Then I chose which data I wanted to work with to get the answer to the main question: **What are details of the movies Microsoft should produce at its new studio?**
 
