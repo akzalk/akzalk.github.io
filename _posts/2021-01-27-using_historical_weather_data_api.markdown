@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Using Historical Weather Data API"
-date:       2021-01-27 23:27:56 +0000
+date:       2021-01-27 18:27:57 -0500
 permalink:  using_historical_weather_data_api
 ---
 
